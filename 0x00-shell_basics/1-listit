@@ -1,2 +1,2 @@
 #!/bin/bash
-to list the contents in a directory we use 'ls'
+to display the contents list of your current directory we use 'ls'
